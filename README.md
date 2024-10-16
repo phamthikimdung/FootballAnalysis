@@ -54,7 +54,7 @@ pip install opencv-python numpy
 4. **Gán đội bóng cho cầu thủ**: Tự động nhận diện đội bóng của cầu thủ dựa trên màu áo.
 5. **Gán quyền kiểm soát bóng**: Xác định cầu thủ nào đang kiểm soát bóng trong từng khung hình.
 6. **Ước tính tốc độ và khoảng cách**: Tính toán và thêm thông tin về tốc độ và khoảng cách di chuyển của các đối tượng vào video.
-7. **Xuất video**: Lưu video đã chú thích với các phân tích chi tiết vào thư mục `output_videos/` dưới dạng tệp `.avi`.
+7. **Xuất video**: Lưu video đã chú thích với các phân tích chi tiết vào thư mục `output_videos/` dưới dạng tệp `.mp4`.
 
 #### Bước 3: Chạy Lệnh
 
@@ -64,7 +64,7 @@ pip install opencv-python numpy
 python main.py
 ```
 
-Video đầu ra với các chú thích sẽ được lưu tại `output_videos/output_video.avi`.
+Video đầu ra với các chú thích sẽ được lưu tại `output_videos/output_video.mp4`.
 
 ### 4. Kết Luận
 
