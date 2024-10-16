@@ -5,6 +5,13 @@
 
 Đây là công cụ tự động phân tích video, theo dõi đối tượng (cầu thủ, bóng) và ước tính các thông số như tốc độ, khoảng cách di chuyển, kiểm soát bóng, và di chuyển của camera. Công cụ này được thiết kế để xử lý các video thể thao, giúp hiển thị các thông tin theo dõi và phân tích dưới dạng video được chú thích.
 
+## TỔNG QUAN
+## BEFORE
+https://github.com/user-attachments/assets/63bd6b5b-dc79-40b4-9a03-02c61be2413c
+## AFTER
+https://github.com/user-attachments/assets/f45b7b71-d032-48ed-b7b6-437ed162f274
+
+
 ## Nội Dung
 
 ### 1. Giới Thiệu về Công Cụ Phân Tích Video
