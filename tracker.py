@@ -7,7 +7,7 @@ import pandas as pd
 import cv2
 import sys 
 sys.path.append('../')
-from utils import get_center_of_bbox, get_bbox_width, get_foot_position
+from bbox_utils import measure_distance,measure_xy_distance
 
 class Tracker:
     def __init__(self, model_path):
