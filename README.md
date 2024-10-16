@@ -7,10 +7,10 @@
 
 ## TỔNG QUAN
 ## BEFORE
-https://github.com/user-attachments/assets/63bd6b5b-dc79-40b4-9a03-02c61be2413c
-## AFTER
 https://github.com/user-attachments/assets/f45b7b71-d032-48ed-b7b6-437ed162f274
 
+## AFTER
+https://github.com/user-attachments/assets/63bd6b5b-dc79-40b4-9a03-02c61be2413c
 
 ## Nội Dung
 
